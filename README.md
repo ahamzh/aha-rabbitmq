@@ -1,2 +1,2 @@
-# aha-rabbitmq
+# halo-rabbitmq
 rabbitmq笔记
